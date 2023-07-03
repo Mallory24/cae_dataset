@@ -1,0 +1,2541 @@
+{
+    "assemble": {
+        "cause result": "yes",
+        "frames": [
+            "Building"
+        ],
+        "verb senses": [
+            "assemble"
+        ],
+        "visualness": "yes"
+    },
+    "attach": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching"
+        ],
+        "verb senses": [
+            "22.3-2-1-attach",
+            "attach"
+        ],
+        "visualness": "yes"
+    },
+    "bake": {
+        "cause result": "yes",
+        "frames": [
+            "Cooking_creation"
+        ],
+        "verb senses": [
+            "45.3-bake",
+            "bake"
+        ],
+        "visualness": "yes"
+    },
+    "bang": {
+        "cause result": "yes",
+        "frames": [
+            "Impact",
+            "Motion_noise",
+            "Cause_impact"
+        ],
+        "verb senses": [
+            "18.1-bang"
+        ],
+        "visualness": "yes"
+    },
+    "belt": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_harm"
+        ],
+        "verb senses": [
+            "18.3-belt"
+        ],
+        "visualness": "yes"
+    },
+    "bend": {
+        "cause result": "yes",
+        "frames": [
+            "Body_movement",
+            "Reshaping"
+        ],
+        "verb senses": [
+            "45.2-bend"
+        ],
+        "visualness": "yes"
+    },
+    "bind": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching"
+        ],
+        "verb senses": [
+            "22.3-2-1-bind"
+        ],
+        "visualness": "yes"
+    },
+    "blend": {
+        "cause result": "yes",
+        "frames": [
+            "Amalgamation",
+            "Cause_to_amalgamate"
+        ],
+        "verb senses": [
+            "22.1-1-1-blend"
+        ],
+        "visualness": "yes"
+    },
+    "boat": {
+        "cause result": "yes",
+        "frames": [
+            "Operate_vehicle"
+        ],
+        "verb senses": [
+            "boat"
+        ],
+        "visualness": "yes"
+    },
+    "boil": {
+        "cause result": "yes",
+        "frames": [
+            "Apply_heat",
+            "Absorb_heat",
+            "Cause_harm"
+        ],
+        "verb senses": [
+            "45.3-boil",
+            "26.3-2-boil"
+        ],
+        "visualness": "yes"
+    },
+    "bond": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching"
+        ],
+        "verb senses": [
+            "22.3-2-1-bond"
+        ],
+        "visualness": "yes"
+    },
+    "break": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_fragment",
+            "Experience_bodily_harm",
+            "Render_nonfunctional",
+            "Cause_harm"
+        ],
+        "verb senses": [
+            "45.1-break",
+            "23.2-break",
+            "break"
+        ],
+        "visualness": "yes"
+    },
+    "broil": {
+        "cause result": "yes",
+        "frames": [
+            "Apply_heat"
+        ],
+        "verb senses": [
+            "26.3-2-broil",
+            "45.3-broil"
+        ],
+        "visualness": "yes"
+    },
+    "brown": {
+        "cause result": "yes",
+        "frames": [
+            "Apply_heat"
+        ],
+        "verb senses": [
+            "45.3-brown"
+        ],
+        "visualness": "yes"
+    },
+    "brush": {
+        "cause result": "yes",
+        "frames": [
+            "Placing"
+        ],
+        "verb senses": [
+            "brush"
+        ],
+        "visualness": "yes"
+    },
+    "buckle": {
+        "cause result": "yes",
+        "frames": [
+            "Closure"
+        ],
+        "verb senses": [
+            "22.4-buckle",
+            "buckle"
+        ],
+        "visualness": "yes"
+    },
+    "build": {
+        "cause result": "yes",
+        "frames": [
+            "Building"
+        ],
+        "verb senses": [
+            "build"
+        ],
+        "visualness": "yes"
+    },
+    "burn": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_harm",
+            "Experience_bodily_harm"
+        ],
+        "verb senses": [
+            "45.4-burn",
+            "burn"
+        ],
+        "visualness": "yes"
+    },
+    "bury": {
+        "cause result": "yes",
+        "frames": [
+            "Burying"
+        ],
+        "verb senses": [
+            "bury"
+        ],
+        "visualness": "yes"
+    },
+    "butt": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_harm"
+        ],
+        "verb senses": [
+            "butt"
+        ],
+        "visualness": "yes"
+    },
+    "butter": {
+        "cause result": "yes",
+        "frames": [
+            "Filling"
+        ],
+        "verb senses": [
+            "butter"
+        ],
+        "visualness": "yes"
+    },
+    "button": {
+        "cause result": "yes",
+        "frames": [
+            "Closure"
+        ],
+        "verb senses": [
+            "button"
+        ],
+        "visualness": "yes"
+    },
+    "cement": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching"
+        ],
+        "verb senses": [
+            "22.4-cement"
+        ],
+        "visualness": "yes"
+    },
+    "chain": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching"
+        ],
+        "verb senses": [
+            "22.4-chain"
+        ],
+        "visualness": "yes"
+    },
+    "chew": {
+        "cause result": "yes",
+        "frames": [
+            "Grinding"
+        ],
+        "verb senses": [
+            "39.2-1-chew",
+            "chew"
+        ],
+        "visualness": "yes"
+    },
+    "chip": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_fragment",
+            "Damaging"
+        ],
+        "verb senses": [
+            "21.2-1-chip",
+            "45.1-chip"
+        ],
+        "visualness": "yes"
+    },
+    "chop": {
+        "cause result": "yes",
+        "frames": [
+            "Cutting",
+            "Cause_harm"
+        ],
+        "verb senses": [
+            "18.2-chop",
+            "21.2-2-chop",
+            "chop"
+        ],
+        "visualness": "yes"
+    },
+    "claw": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_harm"
+        ],
+        "verb senses": [
+            "18.2-claw"
+        ],
+        "visualness": "yes"
+    },
+    "clear": {
+        "cause result": "yes",
+        "frames": [
+            "Removing",
+            "Emptying"
+        ],
+        "verb senses": [
+            "45.4-clear",
+            "clear"
+        ],
+        "visualness": "yes"
+    },
+    "cleave": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_fragment"
+        ],
+        "verb senses": [
+            "21.2-1-cleave",
+            "45.1-cleave"
+        ],
+        "visualness": "yes"
+    },
+    "click": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_impact",
+            "Impact",
+            "Motion_noise"
+        ],
+        "verb senses": [
+            "18.1-click"
+        ],
+        "visualness": "yes"
+    },
+    "club": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_harm"
+        ],
+        "verb senses": [
+            "18.3-club"
+        ],
+        "visualness": "yes"
+    },
+    "collect": {
+        "cause result": "yes",
+        "frames": [
+            "Gathering_up"
+        ],
+        "verb senses": [
+            "45.4-collect",
+            "22.3-2-collect"
+        ],
+        "visualness": "yes"
+    },
+    "collide": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_impact"
+        ],
+        "verb senses": [
+            "collide"
+        ],
+        "visualness": "yes"
+    },
+    "comb": {
+        "cause result": "yes",
+        "frames": [
+            "Grooming"
+        ],
+        "verb senses": [
+            "comb"
+        ],
+        "visualness": "yes"
+    },
+    "combine": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_amalgamate"
+        ],
+        "verb senses": [
+            "22.1-1-1-combine"
+        ],
+        "visualness": "yes"
+    },
+    "commute": {
+        "cause result": "yes",
+        "frames": [
+            "Travel"
+        ],
+        "verb senses": [
+            "commute"
+        ],
+        "visualness": "yes"
+    },
+    "compound": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_amalgamate"
+        ],
+        "verb senses": [
+            "22.1-1-1-compound"
+        ],
+        "visualness": "yes"
+    },
+    "confuse": {
+        "cause result": "yes",
+        "frames": [
+            "Experiencer_obj"
+        ],
+        "verb senses": [
+            "22.2-2-confuse"
+        ],
+        "visualness": "yes"
+    },
+    "connect": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching"
+        ],
+        "verb senses": [
+            "22.1-2-1-connect"
+        ],
+        "visualness": "yes"
+    },
+    "consolidate": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_amalgamate"
+        ],
+        "verb senses": [
+            "22.1-1-consolidate",
+            "22.2-2-1-consolidate",
+            "22.2-1-1-consolidate"
+        ],
+        "visualness": "yes"
+    },
+    "construct": {
+        "cause result": "yes",
+        "frames": [
+            "Building"
+        ],
+        "verb senses": [
+            "construct"
+        ],
+        "visualness": "yes"
+    },
+    "cook": {
+        "cause result": "yes",
+        "frames": [
+            "Apply_heat",
+            "Cooking_creation",
+            "Absorb_heat"
+        ],
+        "verb senses": [
+            "45.3-cook",
+            "cook"
+        ],
+        "visualness": "yes"
+    },
+    "crack": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_harm"
+        ],
+        "verb senses": [
+            "45.1-crack"
+        ],
+        "visualness": "yes"
+    },
+    "cram": {
+        "cause result": "yes",
+        "frames": [
+            "Placing"
+        ],
+        "verb senses": [
+            "cram"
+        ],
+        "visualness": "yes"
+    },
+    "crash": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_impact",
+            "Impact"
+        ],
+        "verb senses": [
+            "45.1-crash",
+            "crash"
+        ],
+        "visualness": "yes"
+    },
+    "crumble": {
+        "cause result": "yes",
+        "frames": [
+            "Grinding"
+        ],
+        "verb senses": [
+            "21.2-1-crumble",
+            "45.4-crumble"
+        ],
+        "visualness": "yes"
+    },
+    "crumple": {
+        "cause result": "yes",
+        "frames": [
+            "Body_movement"
+        ],
+        "verb senses": [
+            "21.2-1-crumple",
+            "45.2-crumple"
+        ],
+        "visualness": "yes"
+    },
+    "crunch": {
+        "cause result": "yes",
+        "frames": [
+            "Grinding"
+        ],
+        "verb senses": [
+            "21.2-1-crunch"
+        ],
+        "visualness": "yes"
+    },
+    "crush": {
+        "cause result": "yes",
+        "frames": [
+            "Reshaping",
+            "Cause_harm",
+            "Grinding"
+        ],
+        "verb senses": [
+            "21.2-1-crush",
+            "45.1-crush",
+            "crush"
+        ],
+        "visualness": "yes"
+    },
+    "curl": {
+        "cause result": "yes",
+        "frames": [
+            "Reshaping"
+        ],
+        "verb senses": [
+            "curl"
+        ],
+        "visualness": "yes"
+    },
+    "cut": {
+        "cause result": "yes",
+        "frames": [
+            "Experience_bodily_harm",
+            "Cause_harm",
+            "Cutting"
+        ],
+        "verb senses": [
+            "23.2-cut"
+        ],
+        "visualness": "yes"
+    },
+    "damage": {
+        "cause result": "yes",
+        "frames": [
+            "Damaging"
+        ],
+        "verb senses": [
+            "44-damage"
+        ],
+        "visualness": "yes"
+    },
+    "decay": {
+        "cause result": "yes",
+        "frames": [
+            "Rotting"
+        ],
+        "verb senses": [
+            "45.5-decay"
+        ],
+        "visualness": "yes"
+    },
+    "decompose": {
+        "cause result": "yes",
+        "frames": [
+            "Rotting"
+        ],
+        "verb senses": [
+            "45.5-decompose"
+        ],
+        "visualness": "yes"
+    },
+    "demolish": {
+        "cause result": "yes",
+        "frames": [
+            "Destroying"
+        ],
+        "verb senses": [
+            "44-demolish"
+        ],
+        "visualness": "yes"
+    },
+    "destroy": {
+        "cause result": "yes",
+        "frames": [
+            "Destroying"
+        ],
+        "verb senses": [
+            "44-destroy",
+            "destroy"
+        ],
+        "visualness": "yes"
+    },
+    "detach": {
+        "cause result": "yes",
+        "frames": [
+            "Detaching",
+            "Becoming_detached",
+            "Attaching"
+        ],
+        "verb senses": [
+            "23.3-detach"
+        ],
+        "visualness": "yes"
+    },
+    "devastate": {
+        "cause result": "yes",
+        "frames": [
+            "Destroying"
+        ],
+        "verb senses": [
+            "44-devastate"
+        ],
+        "visualness": "yes"
+    },
+    "dissect": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_fragment"
+        ],
+        "verb senses": [
+            "dissect"
+        ],
+        "visualness": "yes"
+    },
+    "dissolve": {
+        "cause result": "yes",
+        "frames": [
+            "Dispersal",
+            "Cause_to_fragment"
+        ],
+        "verb senses": [
+            "45.4-dissolve",
+            "45.1-dissolve"
+        ],
+        "visualness": "yes"
+    },
+    "drag": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_motion"
+        ],
+        "verb senses": [
+            "drag"
+        ],
+        "visualness": "yes"
+    },
+    "draw": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_motion"
+        ],
+        "verb senses": [
+            "23.2-draw"
+        ],
+        "visualness": "yes"
+    },
+    "drip": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_fluidic_motion"
+        ],
+        "verb senses": [
+            "drip"
+        ],
+        "visualness": "yes"
+    },
+    "drive": {
+        "cause result": "yes",
+        "frames": [
+            "Operate_vehicle"
+        ],
+        "verb senses": [
+            "drive"
+        ],
+        "visualness": "yes"
+    },
+    "drop": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_motion"
+        ],
+        "verb senses": [
+            "drop"
+        ],
+        "visualness": "yes"
+    },
+    "dry": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_be_dry"
+        ],
+        "verb senses": [
+            "45.4-1-dry",
+            "dry"
+        ],
+        "visualness": "yes"
+    },
+    "dye": {
+        "cause result": "yes",
+        "frames": [
+            "Processing_materials"
+        ],
+        "verb senses": [
+            "dye"
+        ],
+        "visualness": "yes"
+    },
+    "eject": {
+        "cause result": "yes",
+        "frames": [
+            "Removing"
+        ],
+        "verb senses": [
+            "eject"
+        ],
+        "visualness": "yes"
+    },
+    "empty": {
+        "cause result": "yes",
+        "frames": [
+            "Removing",
+            "Emptying"
+        ],
+        "verb senses": [
+            "45.4-empty",
+            "empty"
+        ],
+        "visualness": "yes"
+    },
+    "exterminate": {
+        "cause result": "yes",
+        "frames": [
+            "Killing"
+        ],
+        "verb senses": [
+            "44-exterminate"
+        ],
+        "visualness": "yes"
+    },
+    "extinguish": {
+        "cause result": "yes",
+        "frames": [
+            "Putting_out_fire"
+        ],
+        "verb senses": [
+            "extinguish"
+        ],
+        "visualness": "yes"
+    },
+    "fasten": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching",
+            "Closure"
+        ],
+        "verb senses": [
+            "22.3-2-1-fasten",
+            "fasten"
+        ],
+        "visualness": "yes"
+    },
+    "fix": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching",
+            "Resolve_problem"
+        ],
+        "verb senses": [
+            "22.3-2-fix",
+            "fix"
+        ],
+        "visualness": "yes"
+    },
+    "flake": {
+        "cause result": "yes",
+        "frames": [
+            "Grinding"
+        ],
+        "verb senses": [
+            "21.2-1-flake"
+        ],
+        "visualness": "yes"
+    },
+    "flatten": {
+        "cause result": "yes",
+        "frames": [
+            "Reshaping"
+        ],
+        "verb senses": [
+            "21.2-1-flatten",
+            "45.4-flatten"
+        ],
+        "visualness": "yes"
+    },
+    "fling": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_motion"
+        ],
+        "verb senses": [
+            "fling"
+        ],
+        "visualness": "yes"
+    },
+    "float": {
+        "cause result": "yes",
+        "frames": [
+            "Motion"
+        ],
+        "verb senses": [
+            "float"
+        ],
+        "visualness": "yes"
+    },
+    "fold": {
+        "cause result": "yes",
+        "frames": [
+            "Reshaping"
+        ],
+        "verb senses": [
+            "45.2-fold",
+            "fold"
+        ],
+        "visualness": "yes"
+    },
+    "fracture": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_fragment",
+            "Cause_harm"
+        ],
+        "verb senses": [
+            "45.1-fracture"
+        ],
+        "visualness": "yes"
+    },
+    "fry": {
+        "cause result": "yes",
+        "frames": [
+            "Apply_heat"
+        ],
+        "verb senses": [
+            "45.3-fry",
+            "26.3-2-fry",
+            "fry"
+        ],
+        "visualness": "yes"
+    },
+    "fuse": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_amalgamate",
+            "Attaching",
+            "Amalgamation"
+        ],
+        "verb senses": [
+            "22.3-1-1-fuse",
+            "22.1-1-1-fuse"
+        ],
+        "visualness": "yes"
+    },
+    "glaze": {
+        "cause result": "yes",
+        "frames": [
+            "Filling"
+        ],
+        "verb senses": [
+            "24-glaze"
+        ],
+        "visualness": "yes"
+    },
+    "glue": {
+        "cause result": "yes",
+        "frames": [
+            "Building",
+            "Attaching"
+        ],
+        "verb senses": [
+            "22.4-glue",
+            "glue"
+        ],
+        "visualness": "yes"
+    },
+    "grate": {
+        "cause result": "yes",
+        "frames": [
+            "Grinding"
+        ],
+        "verb senses": [
+            "21.2-1-grate"
+        ],
+        "visualness": "yes"
+    },
+    "grill": {
+        "cause result": "yes",
+        "frames": [
+            "Apply_heat"
+        ],
+        "verb senses": [
+            "26.3-2-grill",
+            "45.3-grill",
+            "grill"
+        ],
+        "visualness": "yes"
+    },
+    "grind": {
+        "cause result": "yes",
+        "frames": [
+            "Grinding"
+        ],
+        "verb senses": [
+            "21.2-1-grind",
+            "grind"
+        ],
+        "visualness": "yes"
+    },
+    "gum": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching"
+        ],
+        "verb senses": [
+            "22.4-1-gum"
+        ],
+        "visualness": "yes"
+    },
+    "hang": {
+        "cause result": "yes",
+        "frames": [
+            "Execution",
+            "Placing"
+        ],
+        "verb senses": [
+            "42.2-hang",
+            "hang"
+        ],
+        "visualness": "yes"
+    },
+    "heat": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_temperature_change",
+            "Change_of_temperature"
+        ],
+        "verb senses": [
+            "45.4-heat",
+            "45.3-heat"
+        ],
+        "visualness": "yes"
+    },
+    "hitch": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching"
+        ],
+        "verb senses": [
+            "22.4-hitch"
+        ],
+        "visualness": "yes"
+    },
+    "hook": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching"
+        ],
+        "verb senses": [
+            "22.4-hook"
+        ],
+        "visualness": "yes"
+    },
+    "hurl": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_motion"
+        ],
+        "verb senses": [
+            "hurl"
+        ],
+        "visualness": "yes"
+    },
+    "ignite": {
+        "cause result": "yes",
+        "frames": [
+            "Setting_fire"
+        ],
+        "verb senses": [
+            "45.4-ignite",
+            "ignite"
+        ],
+        "visualness": "yes"
+    },
+    "immerse": {
+        "cause result": "yes",
+        "frames": [
+            "Placing"
+        ],
+        "verb senses": [
+            "immerse"
+        ],
+        "visualness": "yes"
+    },
+    "inject": {
+        "cause result": "yes",
+        "frames": [
+            "Filling"
+        ],
+        "verb senses": [
+            "inject"
+        ],
+        "visualness": "yes"
+    },
+    "insert": {
+        "cause result": "yes",
+        "frames": [
+            "Placing"
+        ],
+        "verb senses": [
+            "insert"
+        ],
+        "visualness": "yes"
+    },
+    "join": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching",
+            "Cause_to_amalgamate"
+        ],
+        "verb senses": [
+            "22.1-2-1-join"
+        ],
+        "visualness": "yes"
+    },
+    "jumble": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_amalgamate"
+        ],
+        "verb senses": [
+            "22.3-2-1-jumble"
+        ],
+        "visualness": "yes"
+    },
+    "kick": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_harm"
+        ],
+        "verb senses": [
+            "18.2-kick",
+            "23.2-kick"
+        ],
+        "visualness": "yes"
+    },
+    "knead": {
+        "cause result": "yes",
+        "frames": [
+            "Manipulation"
+        ],
+        "verb senses": [
+            "knead"
+        ],
+        "visualness": "yes"
+    },
+    "knock": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_motion"
+        ],
+        "verb senses": [
+            "knock"
+        ],
+        "visualness": "yes"
+    },
+    "knot": {
+        "cause result": "yes",
+        "frames": [
+            "Rope_manipulation"
+        ],
+        "verb senses": [
+            "22.4-knot"
+        ],
+        "visualness": "yes"
+    },
+    "lace": {
+        "cause result": "yes",
+        "frames": [
+            "Closure"
+        ],
+        "verb senses": [
+            "lace"
+        ],
+        "visualness": "yes"
+    },
+    "lash": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching"
+        ],
+        "verb senses": [
+            "22.4-lash"
+        ],
+        "visualness": "yes"
+    },
+    "lean": {
+        "cause result": "yes",
+        "frames": [
+            "Placing"
+        ],
+        "verb senses": [
+            "lean"
+        ],
+        "visualness": "yes"
+    },
+    "level": {
+        "cause result": "yes",
+        "frames": [
+            "Destroying"
+        ],
+        "verb senses": [
+            "44-level"
+        ],
+        "visualness": "yes"
+    },
+    "lick": {
+        "cause result": "yes",
+        "frames": [
+            "Manipulation"
+        ],
+        "verb senses": [
+            "39.2-1-lick",
+            "lick"
+        ],
+        "visualness": "yes"
+    },
+    "lift": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_motion"
+        ],
+        "verb senses": [
+            "lift"
+        ],
+        "visualness": "yes"
+    },
+    "lump": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_amalgamate"
+        ],
+        "verb senses": [
+            "22.3-1-lump"
+        ],
+        "visualness": "yes"
+    },
+    "make": {
+        "cause result": "yes",
+        "frames": [
+            "Building"
+        ],
+        "verb senses": [
+            "make"
+        ],
+        "visualness": "yes"
+    },
+    "manicure": {
+        "cause result": "yes",
+        "frames": [
+            "Grooming"
+        ],
+        "verb senses": [
+            "manicure"
+        ],
+        "visualness": "yes"
+    },
+    "mash": {
+        "cause result": "yes",
+        "frames": [
+            "Grinding"
+        ],
+        "verb senses": [
+            "21.2-1-mash"
+        ],
+        "visualness": "yes"
+    },
+    "meld": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_amalgamate"
+        ],
+        "verb senses": [
+            "22.1-1-1-meld"
+        ],
+        "visualness": "yes"
+    },
+    "merge": {
+        "cause result": "yes",
+        "frames": [
+            "Amalgamation",
+            "Cause_to_amalgamate"
+        ],
+        "verb senses": [
+            "22.1-1-1-merge"
+        ],
+        "visualness": "yes"
+    },
+    "mince": {
+        "cause result": "yes",
+        "frames": [
+            "Cutting"
+        ],
+        "verb senses": [
+            "21.2-1-mince"
+        ],
+        "visualness": "yes"
+    },
+    "mix": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_amalgamate"
+        ],
+        "verb senses": [
+            "22.1-1-1-mix"
+        ],
+        "visualness": "yes"
+    },
+    "moor": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching"
+        ],
+        "verb senses": [
+            "22.4-moor",
+            "22.3-2-1-moor"
+        ],
+        "visualness": "yes"
+    },
+    "mutilate": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_harm"
+        ],
+        "verb senses": [
+            "44-mutilate"
+        ],
+        "visualness": "yes"
+    },
+    "nail": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching"
+        ],
+        "verb senses": [
+            "22.4-nail"
+        ],
+        "visualness": "yes"
+    },
+    "nick": {
+        "cause result": "yes",
+        "frames": [
+            "Damaging"
+        ],
+        "verb senses": [
+            "21.2-1-nick"
+        ],
+        "visualness": "yes"
+    },
+    "nip": {
+        "cause result": "yes",
+        "frames": [
+            "Manipulation"
+        ],
+        "verb senses": [
+            "nip"
+        ],
+        "visualness": "yes"
+    },
+    "obliterate": {
+        "cause result": "yes",
+        "frames": [
+            "Destroying"
+        ],
+        "verb senses": [
+            "44-obliterate"
+        ],
+        "visualness": "yes"
+    },
+    "operate": {
+        "cause result": "yes",
+        "frames": [
+            "Using",
+            "Operating_a_system",
+            "Being_in_operation"
+        ],
+        "verb senses": [
+            "45.4-operate",
+            "operate"
+        ],
+        "visualness": "yes"
+    },
+    "pack": {
+        "cause result": "yes",
+        "frames": [
+            "Placing"
+        ],
+        "verb senses": [
+            "pack"
+        ],
+        "visualness": "yes"
+    },
+    "package": {
+        "cause result": "yes",
+        "frames": [
+            "Placing"
+        ],
+        "verb senses": [
+            "22.3-2-1-package"
+        ],
+        "visualness": "yes"
+    },
+    "paddle": {
+        "cause result": "yes",
+        "frames": [
+            "Corporal_punishment"
+        ],
+        "verb senses": [
+            "18.3-paddle"
+        ],
+        "visualness": "yes"
+    },
+    "paint": {
+        "cause result": "yes",
+        "frames": [
+            "Filling",
+            "Create_physical_artwork",
+            "Create_representation"
+        ],
+        "verb senses": [
+            "24-paint",
+            "paint"
+        ],
+        "visualness": "yes"
+    },
+    "pair": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_amalgamate"
+        ],
+        "verb senses": [
+            "22.3-2-pair",
+            "22.2-2-pair",
+            "22.1-2-1-pair"
+        ],
+        "visualness": "yes"
+    },
+    "pare": {
+        "cause result": "yes",
+        "frames": [
+            "Cutting"
+        ],
+        "verb senses": [
+            "23.3-pare"
+        ],
+        "visualness": "yes"
+    },
+    "paste": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching"
+        ],
+        "verb senses": [
+            "22.4-1-paste",
+            "paste"
+        ],
+        "visualness": "yes"
+    },
+    "paw": {
+        "cause result": "yes",
+        "frames": [
+            "Manipulation"
+        ],
+        "verb senses": [
+            "paw"
+        ],
+        "visualness": "yes"
+    },
+    "pedal": {
+        "cause result": "yes",
+        "frames": [
+            "Operate_vehicle"
+        ],
+        "verb senses": [
+            "pedal"
+        ],
+        "visualness": "yes"
+    },
+    "peel": {
+        "cause result": "yes",
+        "frames": [
+            "Emptying"
+        ],
+        "verb senses": [
+            "peel"
+        ],
+        "visualness": "yes"
+    },
+    "pin": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching"
+        ],
+        "verb senses": [
+            "22.4-pin",
+            "pin"
+        ],
+        "visualness": "yes"
+    },
+    "pinch": {
+        "cause result": "yes",
+        "frames": [
+            "Manipulation"
+        ],
+        "verb senses": [
+            "pinch"
+        ],
+        "visualness": "yes"
+    },
+    "place": {
+        "cause result": "yes",
+        "frames": [
+            "Placing"
+        ],
+        "verb senses": [
+            "place"
+        ],
+        "visualness": "yes"
+    },
+    "plaster": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching"
+        ],
+        "verb senses": [
+            "22.4-plaster"
+        ],
+        "visualness": "yes"
+    },
+    "plunge": {
+        "cause result": "yes",
+        "frames": [
+            "Placing"
+        ],
+        "verb senses": [
+            "plunge"
+        ],
+        "visualness": "yes"
+    },
+    "poke": {
+        "cause result": "yes",
+        "frames": [
+            "Manipulation"
+        ],
+        "verb senses": [
+            "poke"
+        ],
+        "visualness": "yes"
+    },
+    "press": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_motion"
+        ],
+        "verb senses": [
+            "press"
+        ],
+        "visualness": "yes"
+    },
+    "prowl": {
+        "cause result": "yes",
+        "frames": [
+            "Self_motion"
+        ],
+        "verb senses": [
+            "prowl"
+        ],
+        "visualness": "yes"
+    },
+    "pull": {
+        "cause result": "yes",
+        "frames": [
+            "Manipulation",
+            "Earnings_and_losses",
+            "Cause_motion"
+        ],
+        "verb senses": [
+            "23.2-pull",
+            "pull"
+        ],
+        "visualness": "yes"
+    },
+    "pulverize": {
+        "cause result": "yes",
+        "frames": [
+            "Grinding"
+        ],
+        "verb senses": [
+            "45.4-pulverize",
+            "21.2-1-pulverize"
+        ],
+        "visualness": "yes"
+    },
+    "pump": {
+        "cause result": "yes",
+        "frames": [
+            "Filling"
+        ],
+        "verb senses": [
+            "pump"
+        ],
+        "visualness": "yes"
+    },
+    "punch": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_harm"
+        ],
+        "verb senses": [
+            "18.2-punch",
+            "21.2-2-punch"
+        ],
+        "visualness": "yes"
+    },
+    "punt": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_motion"
+        ],
+        "verb senses": [
+            "punt"
+        ],
+        "visualness": "yes"
+    },
+    "push": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_motion",
+            "Cause_change_of_position_on_a_scale",
+            "Manipulation"
+        ],
+        "verb senses": [
+            "23.2-push",
+            "push"
+        ],
+        "visualness": "yes"
+    },
+    "put": {
+        "cause result": "yes",
+        "frames": [
+            "Placing"
+        ],
+        "verb senses": [
+            "put"
+        ],
+        "visualness": "yes"
+    },
+    "rake": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_motion"
+        ],
+        "verb senses": [
+            "rake"
+        ],
+        "visualness": "yes"
+    },
+    "rest": {
+        "cause result": "yes",
+        "frames": [
+            "Placing"
+        ],
+        "verb senses": [
+            "rest"
+        ],
+        "visualness": "yes"
+    },
+    "rinse": {
+        "cause result": "yes",
+        "frames": [
+            "Removing"
+        ],
+        "verb senses": [
+            "rinse"
+        ],
+        "visualness": "yes"
+    },
+    "rip": {
+        "cause result": "yes",
+        "frames": [
+            "Damaging",
+            "Cause_to_fragment"
+        ],
+        "verb senses": [
+            "23.2-rip",
+            "45.1-rip"
+        ],
+        "visualness": "yes"
+    },
+    "rivet": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching"
+        ],
+        "verb senses": [
+            "22.4-rivet"
+        ],
+        "visualness": "yes"
+    },
+    "roast": {
+        "cause result": "yes",
+        "frames": [
+            "Apply_heat"
+        ],
+        "verb senses": [
+            "45.3-roast",
+            "26.3-2-roast"
+        ],
+        "visualness": "yes"
+    },
+    "rock": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_move_in_place"
+        ],
+        "verb senses": [
+            "rock"
+        ],
+        "visualness": "yes"
+    },
+    "roll": {
+        "cause result": "yes",
+        "frames": [
+            "Reshaping",
+            "Cause_motion",
+            "Motion",
+            "Mass_motion",
+            "Body_movement"
+        ],
+        "verb senses": [
+            "22.3-2-roll",
+            "23.2-roll",
+            "45.2-roll"
+        ],
+        "visualness": "yes"
+    },
+    "rot": {
+        "cause result": "yes",
+        "frames": [
+            "Rotting"
+        ],
+        "verb senses": [
+            "45.5-rot"
+        ],
+        "visualness": "yes"
+    },
+    "rub": {
+        "cause result": "yes",
+        "frames": [
+            "Manipulation"
+        ],
+        "verb senses": [
+            "rub"
+        ],
+        "visualness": "yes"
+    },
+    "rust": {
+        "cause result": "yes",
+        "frames": [
+            "Corroding"
+        ],
+        "verb senses": [
+            "45.5-rust"
+        ],
+        "visualness": "yes"
+    },
+    "scald": {
+        "cause result": "yes",
+        "frames": [
+            "Apply_heat"
+        ],
+        "verb senses": [
+            "45.3-scald"
+        ],
+        "visualness": "yes"
+    },
+    "scratch": {
+        "cause result": "yes",
+        "frames": [
+            "Damaging"
+        ],
+        "verb senses": [
+            "18.2-scratch",
+            "scratch"
+        ],
+        "visualness": "yes"
+    },
+    "seal": {
+        "cause result": "yes",
+        "frames": [
+            "Closure"
+        ],
+        "verb senses": [
+            "22.4-seal",
+            "seal"
+        ],
+        "visualness": "yes"
+    },
+    "secure": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching"
+        ],
+        "verb senses": [
+            "22.3-2-1-secure"
+        ],
+        "visualness": "yes"
+    },
+    "sell": {
+        "cause result": "yes",
+        "frames": [
+            "Commerce_sell"
+        ],
+        "verb senses": [
+            "sell"
+        ],
+        "visualness": "yes"
+    },
+    "set": {
+        "cause result": "yes",
+        "frames": [
+            "Intentionally_create",
+            "Arranging",
+            "Change_of_consistency"
+        ],
+        "verb senses": [
+            "26.3-2-set",
+            "45.4-1-set"
+        ],
+        "visualness": "yes"
+    },
+    "sew": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching"
+        ],
+        "verb senses": [
+            "22.3-2-sew"
+        ],
+        "visualness": "yes"
+    },
+    "shake": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_move_in_place",
+            "Moving_in_place",
+            "Body_movement"
+        ],
+        "verb senses": [
+            "22.3-2-shake",
+            "shake"
+        ],
+        "visualness": "yes"
+    },
+    "sharpen": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_be_sharp"
+        ],
+        "verb senses": [
+            "45.4-sharpen",
+            "sharpen"
+        ],
+        "visualness": "yes"
+    },
+    "shatter": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_fragment"
+        ],
+        "verb senses": [
+            "45.1-shatter",
+            "44-shatter"
+        ],
+        "visualness": "yes"
+    },
+    "shelve": {
+        "cause result": "yes",
+        "frames": [
+            "Placing"
+        ],
+        "verb senses": [
+            "shelve"
+        ],
+        "visualness": "yes"
+    },
+    "shoot": {
+        "cause result": "yes",
+        "frames": [
+            "Hit_target",
+            "Use_firearm",
+            "Shoot_projectiles"
+        ],
+        "verb senses": [
+            "42.2-shoot",
+            "shoot"
+        ],
+        "visualness": "yes"
+    },
+    "shove": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_motion"
+        ],
+        "verb senses": [
+            "23.2-shove"
+        ],
+        "visualness": "yes"
+    },
+    "shred": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_fragment"
+        ],
+        "verb senses": [
+            "shred"
+        ],
+        "visualness": "yes"
+    },
+    "shuffle": {
+        "cause result": "yes",
+        "frames": [
+            "Body_movement"
+        ],
+        "verb senses": [
+            "22.3-2-shuffle"
+        ],
+        "visualness": "yes"
+    },
+    "shush": {
+        "cause result": "yes",
+        "frames": [
+            "Silencing"
+        ],
+        "verb senses": [
+            "shush"
+        ],
+        "visualness": "yes"
+    },
+    "simmer": {
+        "cause result": "yes",
+        "frames": [
+            "Absorb_heat",
+            "Apply_heat"
+        ],
+        "verb senses": [
+            "45.3-simmer"
+        ],
+        "visualness": "yes"
+    },
+    "skate": {
+        "cause result": "yes",
+        "frames": [
+            "Operate_vehicle"
+        ],
+        "verb senses": [
+            "skate"
+        ],
+        "visualness": "yes"
+    },
+    "slam": {
+        "cause result": "yes",
+        "frames": [
+            "Judgment_communication",
+            "Impact",
+            "Cause_impact"
+        ],
+        "verb senses": [
+            "18.3-slam"
+        ],
+        "visualness": "yes"
+    },
+    "slice": {
+        "cause result": "yes",
+        "frames": [
+            "Cutting",
+            "Cause_harm"
+        ],
+        "verb senses": [
+            "23.3-slice",
+            "18.2-slice",
+            "21.2-1-slice",
+            "slice"
+        ],
+        "visualness": "yes"
+    },
+    "slide": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_motion"
+        ],
+        "verb senses": [
+            "slide"
+        ],
+        "visualness": "yes"
+    },
+    "slip": {
+        "cause result": "yes",
+        "frames": [
+            "Dressing",
+            "Undressing"
+        ],
+        "verb senses": [
+            "23.2-slip"
+        ],
+        "visualness": "yes"
+    },
+    "sliver": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_fragment"
+        ],
+        "verb senses": [
+            "45.1-sliver"
+        ],
+        "visualness": "yes"
+    },
+    "smash": {
+        "cause result": "yes",
+        "frames": [
+            "Impact",
+            "Cause_harm",
+            "Cause_to_fragment"
+        ],
+        "verb senses": [
+            "21.2-1-smash",
+            "45.1-smash",
+            "smash"
+        ],
+        "visualness": "yes"
+    },
+    "smear": {
+        "cause result": "yes",
+        "frames": [
+            "Placing"
+        ],
+        "verb senses": [
+            "smear"
+        ],
+        "visualness": "yes"
+    },
+    "snap": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_fragment"
+        ],
+        "verb senses": [
+            "23.2-snap",
+            "45.1-snap"
+        ],
+        "visualness": "yes"
+    },
+    "soak": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_be_wet",
+            "Soaking",
+            "Fluidic_motion"
+        ],
+        "verb senses": [
+            "45.4-soak",
+            "soak"
+        ],
+        "visualness": "yes"
+    },
+    "spear": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_harm"
+        ],
+        "verb senses": [
+            "21.2-2-spear"
+        ],
+        "visualness": "yes"
+    },
+    "spill": {
+        "cause result": "yes",
+        "frames": [
+            "Fluidic_motion"
+        ],
+        "verb senses": [
+            "spill"
+        ],
+        "visualness": "yes"
+    },
+    "spin": {
+        "cause result": "yes",
+        "frames": [
+            "Processing_materials"
+        ],
+        "verb senses": [
+            "spin"
+        ],
+        "visualness": "yes"
+    },
+    "splinter": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_fragment"
+        ],
+        "verb senses": [
+            "45.1-splinter"
+        ],
+        "visualness": "yes"
+    },
+    "split": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_fragment"
+        ],
+        "verb senses": [
+            "23.2-split",
+            "45.1-split"
+        ],
+        "visualness": "yes"
+    },
+    "spoil": {
+        "cause result": "yes",
+        "frames": [
+            "Rotting"
+        ],
+        "verb senses": [
+            "45.5-spoil"
+        ],
+        "visualness": "yes"
+    },
+    "spray": {
+        "cause result": "yes",
+        "frames": [
+            "Filling"
+        ],
+        "verb senses": [
+            "spray"
+        ],
+        "visualness": "yes"
+    },
+    "spread": {
+        "cause result": "yes",
+        "frames": [
+            "Filling"
+        ],
+        "verb senses": [
+            "spread"
+        ],
+        "visualness": "yes"
+    },
+    "sprinkle": {
+        "cause result": "yes",
+        "frames": [
+            "Dispersal"
+        ],
+        "verb senses": [
+            "sprinkle"
+        ],
+        "visualness": "yes"
+    },
+    "squeeze": {
+        "cause result": "yes",
+        "frames": [
+            "Manipulation"
+        ],
+        "verb senses": [
+            "squeeze"
+        ],
+        "visualness": "yes"
+    },
+    "stab": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_harm"
+        ],
+        "verb senses": [
+            "18.2-stab",
+            "42.2-stab"
+        ],
+        "visualness": "yes"
+    },
+    "stain": {
+        "cause result": "yes",
+        "frames": [
+            "Processing_materials"
+        ],
+        "verb senses": [
+            "24-stain"
+        ],
+        "visualness": "yes"
+    },
+    "staple": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching"
+        ],
+        "verb senses": [
+            "staple"
+        ],
+        "visualness": "yes"
+    },
+    "stew": {
+        "cause result": "yes",
+        "frames": [
+            "Apply_heat",
+            "Absorb_heat"
+        ],
+        "verb senses": [
+            "45.3-stew"
+        ],
+        "visualness": "yes"
+    },
+    "stick": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching",
+            "Cause_motion",
+            "Being_attached",
+            "Placing"
+        ],
+        "verb senses": [
+            "19-stick",
+            "22.3-2-stick"
+        ],
+        "visualness": "yes"
+    },
+    "strap": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching"
+        ],
+        "verb senses": [
+            "22.4-strap",
+            "strap"
+        ],
+        "visualness": "yes"
+    },
+    "stretch": {
+        "cause result": "yes",
+        "frames": [
+            "Body_movement",
+            "Expansion",
+            "Cause_expansion"
+        ],
+        "verb senses": [
+            "45.2-stretch",
+            "stretch"
+        ],
+        "visualness": "yes"
+    },
+    "strip": {
+        "cause result": "yes",
+        "frames": [
+            "Removing"
+        ],
+        "verb senses": [
+            "strip"
+        ],
+        "visualness": "yes"
+    },
+    "stroke": {
+        "cause result": "yes",
+        "frames": [
+            "Manipulation"
+        ],
+        "verb senses": [
+            "stroke"
+        ],
+        "visualness": "yes"
+    },
+    "swell": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_expansion",
+            "Change_position_on_a_scale",
+            "Expansion",
+            "Cause_change_of_position_on_a_scale"
+        ],
+        "verb senses": [
+            "45.5-swell"
+        ],
+        "visualness": "yes"
+    },
+    "tack": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching"
+        ],
+        "verb senses": [
+            "22.4-tack"
+        ],
+        "visualness": "yes"
+    },
+    "tape": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching"
+        ],
+        "verb senses": [
+            "22.4-tape"
+        ],
+        "visualness": "yes"
+    },
+    "taxi": {
+        "cause result": "yes",
+        "frames": [
+            "Self_motion"
+        ],
+        "verb senses": [
+            "taxi"
+        ],
+        "visualness": "yes"
+    },
+    "tear": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_fragment",
+            "Damaging",
+            "Experience_bodily_harm"
+        ],
+        "verb senses": [
+            "45.1-tear",
+            "23.2-tear",
+            "tear"
+        ],
+        "visualness": "yes"
+    },
+    "throw": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_motion"
+        ],
+        "verb senses": [
+            "throw"
+        ],
+        "visualness": "yes"
+    },
+    "thump": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_impact",
+            "Make_noise",
+            "Impact"
+        ],
+        "verb senses": [
+            "18.3-thump",
+            "18.1-thump"
+        ],
+        "visualness": "yes"
+    },
+    "tickle": {
+        "cause result": "yes",
+        "frames": [
+            "Manipulation"
+        ],
+        "verb senses": [
+            "tickle"
+        ],
+        "visualness": "yes"
+    },
+    "tie": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching",
+            "Immobilization",
+            "Rope_manipulation",
+            "Closure",
+            "Knot_creation"
+        ],
+        "verb senses": [
+            "22.4-tie",
+            "22.1-2-tie",
+            "tie"
+        ],
+        "visualness": "yes"
+    },
+    "total": {
+        "cause result": "yes",
+        "frames": [
+            "Amounting_to",
+            "Adding_up"
+        ],
+        "verb senses": [
+            "22.2-2-total"
+        ],
+        "visualness": "yes"
+    },
+    "trip": {
+        "cause result": "yes",
+        "frames": [
+            "Self_motion"
+        ],
+        "verb senses": [
+            "trip"
+        ],
+        "visualness": "yes"
+    },
+    "tug": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_motion"
+        ],
+        "verb senses": [
+            "23.2-tug",
+            "tug"
+        ],
+        "visualness": "yes"
+    },
+    "turn": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_change",
+            "Undergo_change"
+        ],
+        "verb senses": [
+            "26.6.1-1-turn",
+            "turn"
+        ],
+        "visualness": "yes"
+    },
+    "unify": {
+        "cause result": "yes",
+        "frames": [
+            "Amalgamation",
+            "Cause_to_amalgamate"
+        ],
+        "verb senses": [
+            "22.2-2-1-unify"
+        ],
+        "visualness": "yes"
+    },
+    "unite": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_amalgamate",
+            "Amalgamation"
+        ],
+        "verb senses": [
+            "22.2-2-1-unite"
+        ],
+        "visualness": "yes"
+    },
+    "unload": {
+        "cause result": "yes",
+        "frames": [
+            "Removing"
+        ],
+        "verb senses": [
+            "unload"
+        ],
+        "visualness": "yes"
+    },
+    "vaporize": {
+        "cause result": "yes",
+        "frames": [
+            "Change_of_phase",
+            "Destroying"
+        ],
+        "verb senses": [
+            "45.4-vaporize",
+            "44-vaporize"
+        ],
+        "visualness": "yes"
+    },
+    "warm_up": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_of_temperature"
+        ],
+        "verb senses": [
+            "45.3-warm_up"
+        ],
+        "visualness": "yes"
+    },
+    "warp": {
+        "cause result": "yes",
+        "frames": [
+            "Reshaping"
+        ],
+        "verb senses": [
+            "45.2-warp"
+        ],
+        "visualness": "yes"
+    },
+    "wash": {
+        "cause result": "yes",
+        "frames": [
+            "Grooming",
+            "Removing"
+        ],
+        "verb senses": [
+            "26.3-2-wash",
+            "wash"
+        ],
+        "visualness": "yes"
+    },
+    "weigh": {
+        "cause result": "yes",
+        "frames": [
+            "Assessing"
+        ],
+        "verb senses": [
+            "weigh"
+        ],
+        "visualness": "yes"
+    },
+    "weld": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching",
+            "Building"
+        ],
+        "verb senses": [
+            "22.3-2-1-weld",
+            "weld"
+        ],
+        "visualness": "yes"
+    },
+    "wet": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_be_wet"
+        ],
+        "verb senses": [
+            "45.4-wet",
+            "wet"
+        ],
+        "visualness": "yes"
+    },
+    "whip": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_harm"
+        ],
+        "verb senses": [
+            "18.3-whip",
+            "whip"
+        ],
+        "visualness": "yes"
+    },
+    "wire": {
+        "cause result": "yes",
+        "frames": [
+            "Attaching"
+        ],
+        "verb senses": [
+            "22.4-wire"
+        ],
+        "visualness": "yes"
+    },
+    "wrap": {
+        "cause result": "yes",
+        "frames": [
+            "Placing"
+        ],
+        "verb senses": [
+            "wrap"
+        ],
+        "visualness": "yes"
+    },
+    "wring": {
+        "cause result": "yes",
+        "frames": [
+            "Manipulation"
+        ],
+        "verb senses": [
+            "wring"
+        ],
+        "visualness": "yes"
+    },
+    "wrinkle": {
+        "cause result": "yes",
+        "frames": [
+            "Body_movement"
+        ],
+        "verb senses": [
+            "45.2-wrinkle"
+        ],
+        "visualness": "yes"
+    },
+    "yank": {
+        "cause result": "yes",
+        "frames": [
+            "Manipulation",
+            "Cause_motion"
+        ],
+        "verb senses": [
+            "23.2-yank",
+            "yank"
+        ],
+        "visualness": "yes"
+    },
+    "zip": {
+        "cause result": "yes",
+        "frames": [
+            "Closure"
+        ],
+        "verb senses": [
+            "22.4-zip"
+        ],
+        "visualness": "yes"
+    }
+}

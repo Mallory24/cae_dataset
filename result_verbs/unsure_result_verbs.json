@@ -1,0 +1,1449 @@
+{
+    "activate": {
+        "cause result": "yes",
+        "frames": [
+            "Change_operational_state"
+        ],
+        "verb senses": [
+            "45.4-activate"
+        ],
+        "visualness": "unsure"
+    },
+    "adjust": {
+        "cause result": "unsure",
+        "frames": [
+            "Adjusting"
+        ],
+        "verb senses": [
+            "adjust"
+        ],
+        "visualness": "yes"
+    },
+    "age": {
+        "cause result": "yes",
+        "frames": [
+            "Aging"
+        ],
+        "verb senses": [
+            "45.4-age"
+        ],
+        "visualness": "unsure"
+    },
+    "aim": {
+        "cause result": "unsure",
+        "frames": [
+            "Aiming"
+        ],
+        "verb senses": [
+            "aim"
+        ],
+        "visualness": "yes"
+    },
+    "alter": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_change"
+        ],
+        "verb senses": [
+            "45.4-alter"
+        ],
+        "visualness": "unsure"
+    },
+    "arrange": {
+        "cause result": "unsure",
+        "frames": [
+            "Arranging"
+        ],
+        "verb senses": [
+            "arrange"
+        ],
+        "visualness": "yes"
+    },
+    "awaken": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_wake"
+        ],
+        "verb senses": [
+            "45.4-1-awaken"
+        ],
+        "visualness": "unsure"
+    },
+    "baptize": {
+        "cause result": "unsure",
+        "frames": [
+            "Rite"
+        ],
+        "verb senses": [
+            "baptize"
+        ],
+        "visualness": "yes"
+    },
+    "barbecue": {
+        "cause result": "unsure",
+        "frames": [
+            "Apply_heat"
+        ],
+        "verb senses": [
+            "barbecue"
+        ],
+        "visualness": "yes"
+    },
+    "block": {
+        "cause result": "unsure",
+        "frames": [
+            "Hindering"
+        ],
+        "verb senses": [
+            "block"
+        ],
+        "visualness": "yes"
+    },
+    "blow": {
+        "cause result": "unsure",
+        "frames": [
+            "Breathing"
+        ],
+        "verb senses": [
+            "23.2-blow"
+        ],
+        "visualness": "yes"
+    },
+    "blunt": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_be_sharp"
+        ],
+        "verb senses": [
+            "45.4-blunt"
+        ],
+        "visualness": "unsure"
+    },
+    "braid": {
+        "cause result": "unsure",
+        "frames": [
+            "Rope_manipulation"
+        ],
+        "verb senses": [
+            "braid"
+        ],
+        "visualness": "yes"
+    },
+    "buy": {
+        "cause result": "unsure",
+        "frames": [
+            "Commerce_buy"
+        ],
+        "verb senses": [
+            "buy"
+        ],
+        "visualness": "yes"
+    },
+    "camouflage": {
+        "cause result": "unsure",
+        "frames": [
+            "Hiding_objects"
+        ],
+        "verb senses": [
+            "camouflage"
+        ],
+        "visualness": "yes"
+    },
+    "carry": {
+        "cause result": "unsure",
+        "frames": [
+            "Bringing"
+        ],
+        "verb senses": [
+            "carry"
+        ],
+        "visualness": "yes"
+    },
+    "cart": {
+        "cause result": "unsure",
+        "frames": [
+            "Bringing"
+        ],
+        "verb senses": [
+            "cart"
+        ],
+        "visualness": "yes"
+    },
+    "carve": {
+        "cause result": "unsure",
+        "frames": [
+            "Create_representation"
+        ],
+        "verb senses": [
+            "23.3-carve",
+            "21.2-2-carve",
+            "carve"
+        ],
+        "visualness": "yes"
+    },
+    "change": {
+        "cause result": "yes",
+        "frames": [
+            "Undergo_change",
+            "Cause_change"
+        ],
+        "verb senses": [
+            "26.6.1-1-change",
+            "45.4-change"
+        ],
+        "visualness": "unsure"
+    },
+    "check": {
+        "cause result": "unsure",
+        "frames": [
+            "Scrutiny"
+        ],
+        "verb senses": [
+            "check"
+        ],
+        "visualness": "yes"
+    },
+    "chill": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_temperature_change",
+            "Change_of_temperature"
+        ],
+        "verb senses": [
+            "45.4-chill"
+        ],
+        "visualness": "unsure"
+    },
+    "close": {
+        "cause result": "yes",
+        "frames": [
+            "Closure",
+            "Body_movement"
+        ],
+        "verb senses": [
+            "45.4-close"
+        ],
+        "visualness": "unsure"
+    },
+    "coincide": {
+        "cause result": "unsure",
+        "frames": [
+            "Simultaneity"
+        ],
+        "verb senses": [
+            "22.2-2-1-coincide"
+        ],
+        "visualness": "yes"
+    },
+    "combust": {
+        "cause result": "yes",
+        "frames": [
+            "Catching_fire"
+        ],
+        "verb senses": [
+            "45.4-combust"
+        ],
+        "visualness": "unsure"
+    },
+    "compare": {
+        "cause result": "unsure",
+        "frames": [
+            "Evaluative_comparison"
+        ],
+        "verb senses": [
+            "22.2-2-compare"
+        ],
+        "visualness": "yes"
+    },
+    "condense": {
+        "cause result": "yes",
+        "frames": [
+            "Change_of_phase"
+        ],
+        "verb senses": [
+            "45.4-condense"
+        ],
+        "visualness": "unsure"
+    },
+    "contract": {
+        "cause result": "yes",
+        "frames": [
+            "Expansion"
+        ],
+        "verb senses": [
+            "45.4-contract"
+        ],
+        "visualness": "unsure"
+    },
+    "convert": {
+        "cause result": "yes",
+        "frames": [
+            "Exchange_currency",
+            "Cause_change"
+        ],
+        "verb senses": [
+            "26.6.1-1-convert"
+        ],
+        "visualness": "unsure"
+    },
+    "cool": {
+        "cause result": "yes",
+        "frames": [
+            "Change_of_temperature",
+            "Cause_temperature_change"
+        ],
+        "verb senses": [
+            "45.4-cool"
+        ],
+        "visualness": "unsure"
+    },
+    "count": {
+        "cause result": "unsure",
+        "frames": [
+            "Categorization"
+        ],
+        "verb senses": [
+            "count"
+        ],
+        "visualness": "yes"
+    },
+    "cover": {
+        "cause result": "unsure",
+        "frames": [
+            "Hiding_objects"
+        ],
+        "verb senses": [
+            "cover"
+        ],
+        "visualness": "yes"
+    },
+    "crucify": {
+        "cause result": "yes",
+        "frames": [
+            "Killing"
+        ],
+        "verb senses": [
+            "42.2-crucify"
+        ],
+        "visualness": "unsure"
+    },
+    "dampen": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_be_wet"
+        ],
+        "verb senses": [
+            "45.4-dampen"
+        ],
+        "visualness": "unsure"
+    },
+    "decrease": {
+        "cause result": "yes",
+        "frames": [
+            "Change_position_on_a_scale",
+            "Cause_change_of_position_on_a_scale"
+        ],
+        "verb senses": [
+            "45.4-decrease"
+        ],
+        "visualness": "unsure"
+    },
+    "dehydrate": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_be_dry"
+        ],
+        "verb senses": [
+            "45.4-dehydrate"
+        ],
+        "visualness": "unsure"
+    },
+    "diminish": {
+        "cause result": "yes",
+        "frames": [
+            "Change_position_on_a_scale"
+        ],
+        "verb senses": [
+            "45.4-diminish"
+        ],
+        "visualness": "unsure"
+    },
+    "dip": {
+        "cause result": "unsure",
+        "frames": [
+            "Dunking"
+        ],
+        "verb senses": [
+            "dip"
+        ],
+        "visualness": "yes"
+    },
+    "disembark": {
+        "cause result": "unsure",
+        "frames": [
+            "Disembarking"
+        ],
+        "verb senses": [
+            "disembark"
+        ],
+        "visualness": "yes"
+    },
+    "disperse": {
+        "cause result": "yes",
+        "frames": [
+            "Dispersal"
+        ],
+        "verb senses": [
+            "45.4-disperse"
+        ],
+        "visualness": "unsure"
+    },
+    "double": {
+        "cause result": "yes",
+        "frames": [
+            "Change_position_on_a_scale"
+        ],
+        "verb senses": [
+            "45.4-double"
+        ],
+        "visualness": "unsure"
+    },
+    "drain": {
+        "cause result": "yes",
+        "frames": [
+            "Removing",
+            "Emptying"
+        ],
+        "verb senses": [
+            "45.4-drain"
+        ],
+        "visualness": "unsure"
+    },
+    "drench": {
+        "cause result": "unsure",
+        "frames": [
+            "Cause_to_be_wet"
+        ],
+        "verb senses": [
+            "drench"
+        ],
+        "visualness": "yes"
+    },
+    "drink": {
+        "cause result": "unsure",
+        "frames": [
+            "Ingestion"
+        ],
+        "verb senses": [
+            "drink"
+        ],
+        "visualness": "yes"
+    },
+    "drown": {
+        "cause result": "yes",
+        "frames": [
+            "Killing",
+            "Death"
+        ],
+        "verb senses": [
+            "42.2-drown"
+        ],
+        "visualness": "unsure"
+    },
+    "dull": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_be_sharp"
+        ],
+        "verb senses": [
+            "45.4-dull"
+        ],
+        "visualness": "unsure"
+    },
+    "ease": {
+        "cause result": "yes",
+        "frames": [
+            "Cure"
+        ],
+        "verb senses": [
+            "45.4-ease"
+        ],
+        "visualness": "unsure"
+    },
+    "eat": {
+        "cause result": "unsure",
+        "frames": [
+            "Ingestion"
+        ],
+        "verb senses": [
+            "39.1-1-eat",
+            "eat"
+        ],
+        "visualness": "yes"
+    },
+    "enlarge": {
+        "cause result": "yes",
+        "frames": [
+            "Expansion",
+            "Cause_expansion"
+        ],
+        "verb senses": [
+            "45.4-enlarge"
+        ],
+        "visualness": "unsure"
+    },
+    "evaporate": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_change_of_phase",
+            "Change_of_phase"
+        ],
+        "verb senses": [
+            "45.4-evaporate"
+        ],
+        "visualness": "unsure"
+    },
+    "examine": {
+        "cause result": "unsure",
+        "frames": [
+            "Inspecting"
+        ],
+        "verb senses": [
+            "examine"
+        ],
+        "visualness": "yes"
+    },
+    "expand": {
+        "cause result": "yes",
+        "frames": [
+            "Expansion",
+            "Cause_expansion"
+        ],
+        "verb senses": [
+            "45.4-expand"
+        ],
+        "visualness": "unsure"
+    },
+    "feed": {
+        "cause result": "unsure",
+        "frames": [
+            "Ingestion"
+        ],
+        "verb senses": [
+            "feed"
+        ],
+        "visualness": "yes"
+    },
+    "fetch": {
+        "cause result": "unsure",
+        "frames": [
+            "Bringing"
+        ],
+        "verb senses": [
+            "fetch"
+        ],
+        "visualness": "yes"
+    },
+    "fill": {
+        "cause result": "yes",
+        "frames": [
+            "Filling"
+        ],
+        "verb senses": [
+            "45.4-fill"
+        ],
+        "visualness": "unsure"
+    },
+    "flood": {
+        "cause result": "yes",
+        "frames": [
+            "Filling"
+        ],
+        "verb senses": [
+            "45.4-flood"
+        ],
+        "visualness": "unsure"
+    },
+    "forage": {
+        "cause result": "unsure",
+        "frames": [
+            "Seeking"
+        ],
+        "verb senses": [
+            "forage"
+        ],
+        "visualness": "yes"
+    },
+    "gather": {
+        "cause result": "unsure",
+        "frames": [
+            "Gathering_up"
+        ],
+        "verb senses": [
+            "22.3-2-gather"
+        ],
+        "visualness": "yes"
+    },
+    "giggle": {
+        "cause result": "unsure",
+        "frames": [
+            "Make_noise"
+        ],
+        "verb senses": [
+            "giggle"
+        ],
+        "visualness": "yes"
+    },
+    "give": {
+        "cause result": "unsure",
+        "frames": [
+            "Giving"
+        ],
+        "verb senses": [
+            "give"
+        ],
+        "visualness": "yes"
+    },
+    "grimace": {
+        "cause result": "unsure",
+        "frames": [
+            "Making_faces"
+        ],
+        "verb senses": [
+            "grimace"
+        ],
+        "visualness": "yes"
+    },
+    "grow": {
+        "cause result": "yes",
+        "frames": [
+            "Expansion",
+            "Cause_expansion"
+        ],
+        "verb senses": [
+            "45.4-grow"
+        ],
+        "visualness": "unsure"
+    },
+    "guard": {
+        "cause result": "unsure",
+        "frames": [
+            "Protecting"
+        ],
+        "verb senses": [
+            "guard"
+        ],
+        "visualness": "yes"
+    },
+    "halt": {
+        "cause result": "yes",
+        "frames": [
+            "Activity_stop",
+            "Halt"
+        ],
+        "verb senses": [
+            "45.4-halt"
+        ],
+        "visualness": "unsure"
+    },
+    "harden": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_change_of_consistency",
+            "Change_of_consistency"
+        ],
+        "verb senses": [
+            "45.4-harden"
+        ],
+        "visualness": "unsure"
+    },
+    "harmonize": {
+        "cause result": "unsure",
+        "frames": [
+            "Compatibility"
+        ],
+        "verb senses": [
+            "22.2-2-1-harmonize"
+        ],
+        "visualness": "yes"
+    },
+    "hasten": {
+        "cause result": "yes",
+        "frames": [
+            "Self_motion"
+        ],
+        "verb senses": [
+            "45.4-hasten"
+        ],
+        "visualness": "unsure"
+    },
+    "haul": {
+        "cause result": "unsure",
+        "frames": [
+            "Bringing"
+        ],
+        "verb senses": [
+            "haul"
+        ],
+        "visualness": "yes"
+    },
+    "heal": {
+        "cause result": "yes",
+        "frames": [
+            "Cure",
+            "Recovery"
+        ],
+        "verb senses": [
+            "45.4-heal"
+        ],
+        "visualness": "unsure"
+    },
+    "herd": {
+        "cause result": "unsure",
+        "frames": [
+            "Gathering_up"
+        ],
+        "verb senses": [
+            "22.3-2-herd"
+        ],
+        "visualness": "yes"
+    },
+    "hunch": {
+        "cause result": "unsure",
+        "frames": [
+            "Posture"
+        ],
+        "verb senses": [
+            "hunch"
+        ],
+        "visualness": "yes"
+    },
+    "hunt": {
+        "cause result": "unsure",
+        "frames": [
+            "Hunting"
+        ],
+        "verb senses": [
+            "hunt"
+        ],
+        "visualness": "yes"
+    },
+    "hydrate": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_be_wet"
+        ],
+        "verb senses": [
+            "45.4-hydrate"
+        ],
+        "visualness": "unsure"
+    },
+    "improve": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_make_progress"
+        ],
+        "verb senses": [
+            "45.4-improve"
+        ],
+        "visualness": "unsure"
+    },
+    "increase": {
+        "cause result": "yes",
+        "frames": [
+            "Change_position_on_a_scale"
+        ],
+        "verb senses": [
+            "45.4-increase"
+        ],
+        "visualness": "unsure"
+    },
+    "indurate": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_change_of_consistency",
+            "Change_of_consistency"
+        ],
+        "verb senses": [
+            "45.4-indurate"
+        ],
+        "visualness": "unsure"
+    },
+    "inflate": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_expansion",
+            "Expansion"
+        ],
+        "verb senses": [
+            "45.4-inflate"
+        ],
+        "visualness": "unsure"
+    },
+    "kindle": {
+        "cause result": "yes",
+        "frames": [
+            "Setting_fire",
+            "Cause_to_start"
+        ],
+        "verb senses": [
+            "45.4-kindle"
+        ],
+        "visualness": "unsure"
+    },
+    "kneel": {
+        "cause result": "unsure",
+        "frames": [
+            "Posture"
+        ],
+        "verb senses": [
+            "kneel"
+        ],
+        "visualness": "yes"
+    },
+    "lap": {
+        "cause result": "unsure",
+        "frames": [
+            "Ingestion"
+        ],
+        "verb senses": [
+            "lap"
+        ],
+        "visualness": "yes"
+    },
+    "launch": {
+        "cause result": "unsure",
+        "frames": [
+            "Shoot_projectiles"
+        ],
+        "verb senses": [
+            "launch"
+        ],
+        "visualness": "yes"
+    },
+    "lengthen": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_expansion",
+            "Expansion"
+        ],
+        "verb senses": [
+            "45.4-lengthen"
+        ],
+        "visualness": "unsure"
+    },
+    "light": {
+        "cause result": "unsure",
+        "frames": [
+            "Setting_fire"
+        ],
+        "verb senses": [
+            "light"
+        ],
+        "visualness": "yes"
+    },
+    "liquefy": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_change_of_phase",
+            "Change_of_phase"
+        ],
+        "verb senses": [
+            "45.4-liquefy"
+        ],
+        "visualness": "unsure"
+    },
+    "lock": {
+        "cause result": "unsure",
+        "frames": [
+            "Inhibit_movement"
+        ],
+        "verb senses": [
+            "lock"
+        ],
+        "visualness": "yes"
+    },
+    "melt": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_change_of_phase",
+            "Change_of_phase"
+        ],
+        "verb senses": [
+            "45.4-1-melt"
+        ],
+        "visualness": "unsure"
+    },
+    "microwave": {
+        "cause result": "unsure",
+        "frames": [
+            "Apply_heat"
+        ],
+        "verb senses": [
+            "microwave"
+        ],
+        "visualness": "yes"
+    },
+    "moisten": {
+        "cause result": "unsure",
+        "frames": [
+            "Cause_to_be_wet"
+        ],
+        "verb senses": [
+            "moisten"
+        ],
+        "visualness": "yes"
+    },
+    "multiply": {
+        "cause result": "yes",
+        "frames": [
+            "Proliferating_in_number"
+        ],
+        "verb senses": [
+            "45.4-multiply"
+        ],
+        "visualness": "unsure"
+    },
+    "nibble": {
+        "cause result": "unsure",
+        "frames": [
+            "Ingestion"
+        ],
+        "verb senses": [
+            "39.2-1-nibble"
+        ],
+        "visualness": "yes"
+    },
+    "offer": {
+        "cause result": "unsure",
+        "frames": [
+            "Offering"
+        ],
+        "verb senses": [
+            "offer"
+        ],
+        "visualness": "yes"
+    },
+    "open": {
+        "cause result": "yes",
+        "frames": [
+            "Closure",
+            "Body_movement"
+        ],
+        "verb senses": [
+            "45.4-open"
+        ],
+        "visualness": "unsure"
+    },
+    "pee": {
+        "cause result": "unsure",
+        "frames": [
+            "Excreting"
+        ],
+        "verb senses": [
+            "pee"
+        ],
+        "visualness": "yes"
+    },
+    "petrify": {
+        "cause result": "yes",
+        "frames": [
+            "Experiencer_obj"
+        ],
+        "verb senses": [
+            "45.4-petrify"
+        ],
+        "visualness": "unsure"
+    },
+    "photograph": {
+        "cause result": "unsure",
+        "frames": [
+            "Create_representation"
+        ],
+        "verb senses": [
+            "photograph"
+        ],
+        "visualness": "yes"
+    },
+    "pick": {
+        "cause result": "unsure",
+        "frames": [
+            "Food_gathering"
+        ],
+        "verb senses": [
+            "pick"
+        ],
+        "visualness": "yes"
+    },
+    "pour": {
+        "cause result": "unsure",
+        "frames": [
+            "Mass_motion"
+        ],
+        "verb senses": [
+            "26.3-2-pour"
+        ],
+        "visualness": "yes"
+    },
+    "propagate": {
+        "cause result": "yes",
+        "frames": [
+            "Giving_birth"
+        ],
+        "verb senses": [
+            "45.4-propagate"
+        ],
+        "visualness": "unsure"
+    },
+    "quiet": {
+        "cause result": "yes",
+        "frames": [
+            "Silencing",
+            "Becoming_silent"
+        ],
+        "verb senses": [
+            "45.4-quiet"
+        ],
+        "visualness": "unsure"
+    },
+    "quieten": {
+        "cause result": "yes",
+        "frames": [
+            "Becoming_silent"
+        ],
+        "verb senses": [
+            "45.4-quieten"
+        ],
+        "visualness": "unsure"
+    },
+    "read": {
+        "cause result": "unsure",
+        "frames": [
+            "Reading_activity"
+        ],
+        "verb senses": [
+            "read"
+        ],
+        "visualness": "yes"
+    },
+    "reassure": {
+        "cause result": "unsure",
+        "frames": [
+            "Reassuring"
+        ],
+        "verb senses": [
+            "reassure"
+        ],
+        "visualness": "yes"
+    },
+    "rehabilitate": {
+        "cause result": "unsure",
+        "frames": [
+            "Cure"
+        ],
+        "verb senses": [
+            "rehabilitate"
+        ],
+        "visualness": "yes"
+    },
+    "release": {
+        "cause result": "unsure",
+        "frames": [
+            "Releasing"
+        ],
+        "verb senses": [
+            "release"
+        ],
+        "visualness": "yes"
+    },
+    "request": {
+        "cause result": "yes",
+        "frames": [
+            "Request"
+        ],
+        "verb senses": [
+            "58.2-request"
+        ],
+        "visualness": "unsure"
+    },
+    "ruin": {
+        "cause result": "unsure",
+        "frames": [
+            "Bungling"
+        ],
+        "verb senses": [
+            "44-ruin"
+        ],
+        "visualness": "yes"
+    },
+    "scorch": {
+        "cause result": "yes",
+        "frames": [
+            "Absorb_heat"
+        ],
+        "verb senses": [
+            "45.4-scorch"
+        ],
+        "visualness": "unsure"
+    },
+    "serve": {
+        "cause result": "unsure",
+        "frames": [
+            "Offering"
+        ],
+        "verb senses": [
+            "serve"
+        ],
+        "visualness": "yes"
+    },
+    "shorten": {
+        "cause result": "yes",
+        "frames": [
+            "Change_event_duration"
+        ],
+        "verb senses": [
+            "45.4-shorten"
+        ],
+        "visualness": "unsure"
+    },
+    "shrink": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_expansion",
+            "Expansion"
+        ],
+        "verb senses": [
+            "45.4-shrink"
+        ],
+        "visualness": "unsure"
+    },
+    "shut": {
+        "cause result": "yes",
+        "frames": [
+            "Body_movement"
+        ],
+        "verb senses": [
+            "45.4-shut"
+        ],
+        "visualness": "unsure"
+    },
+    "sicken": {
+        "cause result": "yes",
+        "frames": [
+            "Experiencer_obj"
+        ],
+        "verb senses": [
+            "45.4-sicken"
+        ],
+        "visualness": "unsure"
+    },
+    "sift": {
+        "cause result": "unsure",
+        "frames": [
+            "Scouring"
+        ],
+        "verb senses": [
+            "23.3-sift"
+        ],
+        "visualness": "yes"
+    },
+    "sign": {
+        "cause result": "unsure",
+        "frames": [
+            "Text_creation"
+        ],
+        "verb senses": [
+            "sign"
+        ],
+        "visualness": "yes"
+    },
+    "sit": {
+        "cause result": "unsure",
+        "frames": [
+            "Posture"
+        ],
+        "verb senses": [
+            "sit"
+        ],
+        "visualness": "yes"
+    },
+    "slouch": {
+        "cause result": "unsure",
+        "frames": [
+            "Posture"
+        ],
+        "verb senses": [
+            "slouch"
+        ],
+        "visualness": "yes"
+    },
+    "smell": {
+        "cause result": "unsure",
+        "frames": [
+            "Perception_active"
+        ],
+        "verb senses": [
+            "smell"
+        ],
+        "visualness": "yes"
+    },
+    "smother": {
+        "cause result": "yes",
+        "frames": [
+            "Killing"
+        ],
+        "verb senses": [
+            "42.2-smother"
+        ],
+        "visualness": "unsure"
+    },
+    "sniff": {
+        "cause result": "unsure",
+        "frames": [
+            "Perception_active"
+        ],
+        "verb senses": [
+            "sniff"
+        ],
+        "visualness": "yes"
+    },
+    "sober": {
+        "cause result": "yes",
+        "frames": [
+            "Experiencer_obj"
+        ],
+        "verb senses": [
+            "45.4-sober"
+        ],
+        "visualness": "unsure"
+    },
+    "soften": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_change_of_consistency"
+        ],
+        "verb senses": [
+            "45.4-soften"
+        ],
+        "visualness": "unsure"
+    },
+    "solidify": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_change_of_phase",
+            "Change_of_phase"
+        ],
+        "verb senses": [
+            "45.4-solidify"
+        ],
+        "visualness": "unsure"
+    },
+    "souse": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_be_wet"
+        ],
+        "verb senses": [
+            "45.4-souse"
+        ],
+        "visualness": "unsure"
+    },
+    "spy": {
+        "cause result": "unsure",
+        "frames": [
+            "Perception_active"
+        ],
+        "verb senses": [
+            "spy"
+        ],
+        "visualness": "yes"
+    },
+    "squint": {
+        "cause result": "unsure",
+        "frames": [
+            "Perception_active"
+        ],
+        "verb senses": [
+            "squint"
+        ],
+        "visualness": "yes"
+    },
+    "stone": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_harm"
+        ],
+        "verb senses": [
+            "42.2-stone"
+        ],
+        "visualness": "unsure"
+    },
+    "strengthen": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_change_of_strength"
+        ],
+        "verb senses": [
+            "45.4-strengthen"
+        ],
+        "visualness": "unsure"
+    },
+    "suffocate": {
+        "cause result": "yes",
+        "frames": [
+            "Killing",
+            "Death"
+        ],
+        "verb senses": [
+            "42.2-suffocate",
+            "40.7-suffocate"
+        ],
+        "visualness": "unsure"
+    },
+    "team": {
+        "cause result": "unsure",
+        "frames": [
+            "Collaboration"
+        ],
+        "verb senses": [
+            "22.2-2-team"
+        ],
+        "visualness": "yes"
+    },
+    "thicken": {
+        "cause result": "yes",
+        "frames": [
+            "Change_of_consistency",
+            "Cause_change_of_consistency"
+        ],
+        "verb senses": [
+            "45.4-thicken"
+        ],
+        "visualness": "unsure"
+    },
+    "thin": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_change_of_consistency"
+        ],
+        "verb senses": [
+            "45.4-thin"
+        ],
+        "visualness": "unsure"
+    },
+    "topple": {
+        "cause result": "yes",
+        "frames": [
+            "Motion_directional"
+        ],
+        "verb senses": [
+            "45.4-topple"
+        ],
+        "visualness": "unsure"
+    },
+    "transform": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_change"
+        ],
+        "verb senses": [
+            "26.6.1-transform"
+        ],
+        "visualness": "unsure"
+    },
+    "translate": {
+        "cause result": "yes",
+        "frames": [
+            "Translating",
+            "Have_as_translation_equivalent",
+            "Categorization"
+        ],
+        "verb senses": [
+            "26.6.1-translate"
+        ],
+        "visualness": "unsure"
+    },
+    "triple": {
+        "cause result": "yes",
+        "frames": [
+            "Change_position_on_a_scale"
+        ],
+        "verb senses": [
+            "45.4-triple"
+        ],
+        "visualness": "unsure"
+    },
+    "urinate": {
+        "cause result": "unsure",
+        "frames": [
+            "Excreting"
+        ],
+        "verb senses": [
+            "urinate"
+        ],
+        "visualness": "yes"
+    },
+    "vibrate": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_move_in_place",
+            "Moving_in_place"
+        ],
+        "verb senses": [
+            "45.4-vibrate"
+        ],
+        "visualness": "unsure"
+    },
+    "wake": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_to_wake",
+            "Waking_up"
+        ],
+        "verb senses": [
+            "45.4-wake"
+        ],
+        "visualness": "unsure"
+    },
+    "warm": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_temperature_change",
+            "Change_of_temperature"
+        ],
+        "verb senses": [
+            "45.4-warm"
+        ],
+        "visualness": "unsure"
+    },
+    "weaken": {
+        "cause result": "yes",
+        "frames": [
+            "Cause_change_of_strength"
+        ],
+        "verb senses": [
+            "45.4-weaken"
+        ],
+        "visualness": "unsure"
+    },
+    "wheel": {
+        "cause result": "unsure",
+        "frames": [
+            "Bringing"
+        ],
+        "verb senses": [
+            "wheel"
+        ],
+        "visualness": "yes"
+    },
+    "write": {
+        "cause result": "unsure",
+        "frames": [
+            "Text_creation"
+        ],
+        "verb senses": [
+            "write"
+        ],
+        "visualness": "yes"
+    }
+}
