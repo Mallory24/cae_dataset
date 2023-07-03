@@ -1,4 +1,5 @@
 # Quick Start:
+- [TODO] create conda env
 - [TODO] Write the path to the file
 
 # To Reproduce the CAE Dataset Preprocessing Steps:
@@ -20,4 +21,4 @@ It should produce two JSON files: (1) sure_result_verbs.json (2) unsure_result_v
 Save sure_result_verbs.json under **meta_info**
 - [TODO] Provide examples of sure/unsure result verbs
 
-# Step 2: Preprocess the HowTo100M subtitles to get relevant video clips
+## Step 2: Preprocess the HowTo100M subtitles
