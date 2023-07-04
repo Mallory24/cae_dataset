@@ -6,12 +6,13 @@
 # To Reproduce the CAE Dataset Creation Steps:
 
 ## Before Start:
-Create the relevant resource:
+Get the relevant resources:
 - request **fndata-1.7** from https://framenet.icsi.berkeley.edu/ and save it under the directory **result_verbs/framenet/**.
 - download the imSitu annotations from https://github.com/my89/imSitu and save them under  **result_verbs/**.
 - clone the repository of **verbnet** from https://github.com/cu-clear/verbnet under **result_verbs/**
 - clone the repository of **semlink** from https://github.com/cu-clear/semlink/tree/master under **result_verbs/**.
-- get the relevant files of HowTo100M from https://www.di.ens.fr/willow/research/howto100m/: (1) HowTo100M_v1.csv (2) raw_caption_superclean.json and save under **meta_info/HowTo100M**.
+- get the relevant files of HowTo100M from https://www.di.ens.fr/willow/research/howto100m/: \
+  (1) HowTo100M_v1.csv (2) raw_caption_superclean.json and save under **meta_info/HowTo100M**.
 
 ## Step 1: Get a list of sure/unsure result verbs
 An ideal result verb should possess two properties: (1) visualness (2) effect-causing
