@@ -1,10 +1,8 @@
 # Quick Start:
-- [TODO] create conda env
-- [TODO] Write the path to the file
-- [TODO] Test the code for Step2-3
+- Contact me to get already preprocessed files.
+- If you want to customize the creation process, find the below instruction for your information.
 
 # To Reproduce the CAE Dataset Creation Steps:
-
 ## Before Start:
 Get the relevant resources:
 - request **fndata-1.7** from https://framenet.icsi.berkeley.edu/ and save it under the directory **result_verbs/framenet/**.
@@ -72,7 +70,7 @@ After running the above code, you should see the following folder structure:
 
 Note: single_result_verbs_video_clips.json and single_frames_verbs_stats.json will be used for the following steps. \
 
-## Step 3: (Customizable) Split the CAE dataset into train/val/test set 
+## Step 3: Split the CAE dataset into train/val/test set 
 ```bash
 python split_cae.py --video_clips subtitles/single_result_verbs_video_clips.json \
 --frame_verb_stats subtitles/single_frames_verbs_stats.json \
