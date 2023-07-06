@@ -23,17 +23,18 @@ sure_result_verbs.json will be used for the following steps.
 
 ## Step 2: Get relevant video clips from HowTo100M to derive the CAE dataset
 ```bash
-$ python prepare_cae.py --meta_file meta_info/HowTo100M/HowTo100M_v1.csv \
-$ --vids_file meta_info/rank15_result_verbs_downloaded_vids.txt \
-$ --subtitles meta_info/HowTo100M/raw_caption_superclean.json \
-$ --result_verbs meta_info/sure_result_verbs.json \
-$ --concrete_word_file meta_info/Concreteness_ratings_Brysbaert_et_al_BRM.txt \
-$ --categories arts,cars,computers,education,family,food,health,hobbies,holidays,home,personal,pets,sports \
-$ --cache_dir subtitles/domain_cache \
-$ --output_dir subtitles
-$ --process all
+python prepare_cae.py --meta_file meta_info/HowTo100M/HowTo100M_v1.csv \
+--vids_file meta_info/rank15_result_verbs_downloaded_vids.txt \
+--subtitles meta_info/HowTo100M/raw_caption_superclean.json \
+--result_verbs meta_info/sure_result_verbs.json \
+--concrete_word_file meta_info/Concreteness_ratings_Brysbaert_et_al_BRM.txt \
+--categories arts,cars,computers,education,family,food,health,hobbies,holidays,home,personal,pets,sports \
+--cache_dir subtitles/domain_cache \
+--output_dir subtitles
+--process all
 ```
 After running the above code, you should see the following folder structure:
+[TODO] Write a script for producing cae.json
 ```
     ├── subtitles
         ├── domain_cache
@@ -85,11 +86,11 @@ After running the above code, you should see the following folder structure:
     ├── single_result_verb_exp
     │   ├── 42
     │   │    ├── eval_table
-                └── eval_table.json
+    │   │    │    └── eval_table.json
     │   │    ├── train
-                └── train.json
+    │   │    │    └── train.json
     │   │    ├── val
-                └── val.json
+    │   │    │    └── val.json
     │   │    ├── test
                 └── test.json
 ```
