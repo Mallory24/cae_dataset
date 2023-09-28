@@ -243,6 +243,26 @@ def re_format(data):
 	return result
 
 
+def re_format_to_clip_id(cae_by_vid):
+	"""
+
+	:param cae_by_vid: video based format: {vid: seg1: {seg1_info}, seg2: {seg1_info}}
+	:return: video clip id based format: {vid: seg1: {seg1_info}, seg2: {seg1_info}}
+	"""
+	vidseg2data = {}
+	
+	for vid in cae_by_vid.keys():
+		for seg_id in cae_by_vid[vid].keys():
+			vidseg_id = vid + '_' + seg_id
+			info = {"vid": vid, "vid seg": cae_by_vid[vid][seg_id]['vid seg'],
+			        "time stamp": cae_by_vid[vid][seg_id]['time stamp'], "caption": cae_by_vid[vid][seg_id]['caption'],
+			        "domain": cae_by_vid[vid][seg_id]['domain'], "frames": cae_by_vid[vid][seg_id]['all_frames'],
+			        "verb": cae_by_vid[vid][seg_id]['verbs'][0], "nouns": cae_by_vid[vid][seg_id]['all_nouns'][0], }
+			vidseg2data[vidseg_id] = info
+	
+	return vidseg2data
+
+
 def get_vid_seg_ids_by_type(data):
 	"""
 
@@ -415,6 +435,10 @@ def extract_result_verbs_vid_clips(result_verbs, category_vids, subtitle_data, c
 	single_result_verbs_vid_clips_by_vid_path = os.path.join(output_dir, "single_result_verbs_video_clips_by_vid.json")
 	json.dump(single_result_verbs_vid_clips_by_vid, open(single_result_verbs_vid_clips_by_vid_path, 'w'))
 	
+	cae = re_format_to_clip_id(single_result_verbs_vid_clips_by_vid)
+	cae_path = os.path.join(output_dir, "cae.json")
+	json.dump(cae, open(cae_path, 'w'))
+
 	multiple_result_verbs_vid_clips_path = os.path.join(output_dir, "multiple_result_verbs_video_clips.json")
 	json.dump(multiple_result_verbs_vid_clips, open(multiple_result_verbs_vid_clips_path, 'w'))
 
@@ -444,7 +468,7 @@ def parse_args():
 
 	parser.add_argument("--meta_file", type=str, default="HowTo100M_v1.csv", required=True,
 						help="HowTo100M meta file")
-	parser.add_argument("--vids_file", type=str, default="rank15_result_verbs_downloaded_vids.txt", required=True,
+	parser.add_argument("--vids_file", type=str, default="cae_vids.txt", required=True,
 						help="Top 15 viewed videos per task id")
 	parser.add_argument("--subtitles", type=str, default="raw_caption_superclean.json", required=True,
 						help="subtitles dataset")
@@ -467,7 +491,6 @@ def parse_args():
 
 if __name__ == '__main__':
 	args = parse_args()
-
 	meta_file = args.meta_file
 	vids_file = args.vids_file
 	subtitles = args.subtitles
