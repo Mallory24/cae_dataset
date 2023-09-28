@@ -1,11 +1,8 @@
 # folders
 subtitles/
+meta_info/HowTo100M/
 
 # files
-meta_info/HowTo100M/rank15_result_verbs_downloaded_vids.txt*
-meta_info/HowTo100M/HowTo100M_v1.csv
-meta_info/HowTo100M/raw_caption_superclean.json
-
 result_verbs/verbs_annotation.xlsx
 result_verbs/write_verbs_annotation_sheet.ipynb
 
