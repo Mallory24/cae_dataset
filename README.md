@@ -1,8 +1,8 @@
 # Quick Start:
-- Contact me to get already preprocessed files.
-- If you want to customize the creation process, find the below instruction for your information.
+- For flexible usage, please refer to [this link]() to download preprocessed files.
+- For reproducibility and customization, please follow the below instruction.
 
-# To Reproduce the CAE Dataset Creation Steps:
+# CAE Dataset Creation Steps:
 ## Before Start:
 Get the relevant resources:
 - request **fndata-1.7** from https://framenet.icsi.berkeley.edu/ and save it under the directory **result_verbs/framenet/**.
@@ -22,6 +22,8 @@ It should produce two JSON files: (1) sure_result_verbs.json and (2) unsure_resu
 sure_result_verbs.json will be used for the following steps.
 
 ## Step 2: Get relevant video clips from HowTo100M to derive the CAE dataset
+* Note: We downsample the video pools by only selecting top 15 viewed videos per wikiHow task id, the list of downloaded video ids is: meta_info/HowTo100M/rank15_result_verbs_downloaded_vids.txt
+  
 ```bash
 python prepare_cae.py --meta_file meta_info/HowTo100M/HowTo100M_v1.csv \
 --vids_file meta_info/rank15_result_verbs_downloaded_vids.txt \
