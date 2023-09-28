@@ -1,5 +1,5 @@
 # Quick Start:
-- For flexible usage, dowload cae via [this link](https://drive.google.com/file/d/1pK9JSBBOYg0Jb4ZtiXb32_mg8lVfLVGm/view?usp=sharing).
+- For flexible usage, dowload **CAE dataset** via [this link](https://drive.google.com/file/d/1pK9JSBBOYg0Jb4ZtiXb32_mg8lVfLVGm/view?usp=sharing).
 - For reproducibility and customization, please follow the below instruction.
 
 
