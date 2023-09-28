@@ -22,11 +22,11 @@ It should produce two JSON files: (1) sure_result_verbs.json and (2) unsure_resu
 **sure_result_verbs.json** will be used for the following steps.
 
 ## Step 2: Get relevant video clips from HowTo100M to derive the CAE dataset
-&ast; Note: We downsample the video pools by only selecting top 15 viewed videos per wikiHow task id, the list of downloaded video ids is: **cae_videos.txt**
+&ast; Note: We downsample the video pools by only selecting top 15 viewed videos per wikiHow task id, the list of downloaded video ids is: **cae_vids.txt**
   
 ```bash
 python prepare_cae.py --meta_file meta_info/HowTo100M/HowTo100M_v1.csv \
---vids_file meta_info/cae_videos.txt \
+--vids_file meta_info/cae_vids.txt \
 --subtitles meta_info/HowTo100M/raw_caption_superclean.json \
 --result_verbs meta_info/sure_result_verbs.json \
 --concrete_word_file meta_info/Concreteness_ratings_Brysbaert_et_al_BRM.txt \
