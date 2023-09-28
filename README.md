@@ -1,5 +1,5 @@
 # Quick Start:
-- For flexible usage, please refer to [this link](https://drive.google.com/file/d/1pK9JSBBOYg0Jb4ZtiXb32_mg8lVfLVGm/view?usp=sharing) to download preprocessed files.
+- For flexible usage, dowload cae via [this link](https://drive.google.com/file/d/1pK9JSBBOYg0Jb4ZtiXb32_mg8lVfLVGm/view?usp=sharing).
 - For reproducibility and customization, please follow the below instruction.
 
 
@@ -12,6 +12,10 @@ If you find this dataset helpful, please cite:
   year={2023}
 }
 ```
+
+<p align="left">
+    <img src="figures/Data_example_final.pdf"/>
+</p>
 
 # CAE Dataset Creation Steps:
 ## Before Start:
