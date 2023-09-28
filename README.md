@@ -1,6 +1,6 @@
 # Quick Start:
 - For flexible usage, dowload **CAE dataset** via [this link](https://drive.google.com/file/d/1pK9JSBBOYg0Jb4ZtiXb32_mg8lVfLVGm/view?usp=sharing).
-- For reproducibility and customization, please jump to [CAE Dataset Creation Steps](#CAE Dataset Creation Steps).
+- For reproducibility and customization, please jump to [CAE Dataset Creation Steps](#cae-dataset-creation-steps).
 
 
 If you find this dataset helpful, please cite:
