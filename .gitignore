@@ -2,6 +2,7 @@
 subtitles/
 
 # files
+meta_info/HowTo100M/rank15_result_verbs_downloaded_vids.txt*
 meta_info/HowTo100M/HowTo100M_v1.csv
 meta_info/HowTo100M/raw_caption_superclean.json
 
