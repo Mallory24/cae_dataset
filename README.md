@@ -1,6 +1,17 @@
 # Quick Start:
-- For flexible usage, please refer to [this link]() to download preprocessed files.
+- For flexible usage, please refer to [this link](https://drive.google.com/file/d/1pK9JSBBOYg0Jb4ZtiXb32_mg8lVfLVGm/view?usp=sharing) to download preprocessed files.
 - For reproducibility and customization, please follow the below instruction.
+
+
+If you find this dataset helpful, please cite:
+```BibTeX
+@article{yang2023affordance,
+  title={Implicit Affordance Acquisition via Causal Action–Effect Modeling in the Video Domain},
+  author={Yang, Hsiu-Yu and Silberer, Carina},
+  journal={Proceedings of the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 13th International Joint Conference on Natural Language Processing},
+  year={2023}
+}
+```
 
 # CAE Dataset Creation Steps:
 ## Before Start:
