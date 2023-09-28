@@ -1,3 +1,6 @@
+# folders
+subtitles/
+
 # files
 meta_info/HowTo100M/HowTo100M_v1.csv
 meta_info/HowTo100M/raw_caption_superclean.json
