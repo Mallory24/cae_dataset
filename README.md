@@ -14,7 +14,7 @@ If you find this dataset helpful, please cite:
 ```
 
 <p align="left">
-    <img src="figures/Data_example_final.pdf"/>
+    <img src="figures/data_teaser.png"/>
 </p>
 
 # CAE Dataset Creation Steps:
