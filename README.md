@@ -51,7 +51,7 @@ After running the above code, you should see the following folder structure:
         ├── multiple_result_verbs_video_clips.json
         └── multiple_result_verbs_video_clips_by_vid.json
 ```
-- cae.json is structured along video_clip.id:
+- cae.json is structured along video clip id:
 ```
 {"roigpbZ6Dpc_38":{'vid': 'roigpbZ6Dpc', 'vid seg': 38, 'time stamp': '1:30:1:36', 'caption': "you so to start off we're going to make", 'domain': 'arts', 'frames': ['Building'], 'verb': 'make', 'nouns': []
  "roigpbZ6Dpc_73": {'vid': 'roigpbZ6Dpc', 'vid seg': 73, 'time stamp': '3:18:3:22', 'caption': 'make this hot cocoa where you want to', 'domain': 'arts', 'frames': ['Building'], 'verb': 'make', 'nouns': ['cocoa']}
